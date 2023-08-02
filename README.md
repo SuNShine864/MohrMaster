@@ -1,1 +1,1 @@
-# MohrMaster
+MohrMaster is an application developed in Python to perform Mohr circle analysis. This app calculates eigenvalues and eigenvectors and generates plots of Mohr circles , Cauchy Stress Surface and Lames ellipsoid using a graphical user interface (GUI). 
